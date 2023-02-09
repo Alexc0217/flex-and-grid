@@ -51,6 +51,10 @@ header img {
   justify-content: space-between;
 }
 
+.product {
+  padding: 30px;
+}
+
 .products li {
   display: flex;
   flex-direction: column;
